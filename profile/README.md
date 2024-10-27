@@ -1,4 +1,4 @@
-# Project Documentation
+# Grasshopper Digest Project Documentation
 
 ## Overview
 
