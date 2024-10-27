@@ -1,6 +1,10 @@
+![Graph-Hop](https://github.com/user-attachments/assets/4fcf7518-aef8-4917-b700-56326e41b7ab)
 # Project Documentation
 
-##Architecture Breakdown
+
+## Architecture Breakdown
+![Graph-Hop (1)](https://github.com/user-attachments/assets/b808cf59-89bc-4569-9cae-5233af0758d8)
+![Graph-Hop (2)](https://github.com/user-attachments/assets/a62d5268-8164-41cd-bbca-0d73a6d6254b)
 ![Data model explanation (1)](https://github.com/user-attachments/assets/495339af-8f03-46b0-ad3a-f610ca89d95f)
 
 ## Front End Overview
