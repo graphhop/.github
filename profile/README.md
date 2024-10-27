@@ -8,6 +8,24 @@
 - Call many API
 - Profit
 
+The frontend uses Typescript+React and [React Force Graph](https://github.com/vasturiano/react-force-graph) for the UI, with Vite for hot reloading.
+
+To start the frontend server, run the following command to go into the correct directory:
+
+`cd graphhop-ui`
+
+Install the necessary dependencies:
+
+`npm run install`
+
+Then run the server:
+
+`npm run dev`
+
+The UI will now be running at the specified port.
+
+Note that for the frontend to function properly, you will need a working local Tinkerpop/Gremlin database server running, and a valid OpenAPI key to call to ChatGPT, as we make API calls to these respective servers.
+
 ## BackEnd Overview
 
 This project is designed to consume Grasshopper files, parse their component data, and store the information in a TinkerPop graph database. This allows for version control and analysis of Grasshopper files.
