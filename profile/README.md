@@ -1,9 +1,14 @@
-# Grasshopper Digest Project Documentation
+# Project Documentation
 
+##Architecture Breakdown
 ![Data model explanation (1)](https://github.com/user-attachments/assets/495339af-8f03-46b0-ad3a-f610ca89d95f)
 
+## Front End Overview
+- Create ReactApp
+- Call many API
+- Profit
 
-## Overview
+## BackEnd Overview
 
 This project is designed to consume Grasshopper files, parse their component data, and store the information in a TinkerPop graph database. This allows for version control and analysis of Grasshopper files.
 
