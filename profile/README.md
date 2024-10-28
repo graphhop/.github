@@ -1,6 +1,8 @@
 ![Graph-Hop](https://github.com/user-attachments/assets/4fcf7518-aef8-4917-b700-56326e41b7ab)
 # Project Documentation
 
+This Project was initiated as part of the [2024 AECtech Hackathon](https://www.aectech.us/) Organized by Thornton Tomasetti's Core Studio
+This Project won Best Collaborative Hack.
 
 ## Architecture Breakdown
 ![Graph-Hop (1)](https://github.com/user-attachments/assets/b808cf59-89bc-4569-9cae-5233af0758d8)
@@ -35,6 +37,8 @@ Note that for the frontend to function properly, you will need a working local T
 This project is designed to consume Grasshopper files, parse their component data, and store the information in a TinkerPop graph database. This allows for version control and analysis of Grasshopper files.
 
 ## Project Structure
+
+AI-generated documentation, reference with caution
 
 ### PluginGrasshopper.csproj
 
